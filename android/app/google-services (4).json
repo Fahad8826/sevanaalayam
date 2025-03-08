@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "566105049070",
+    "project_id": "sevanaalayam",
+    "storage_bucket": "sevanaalayam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566105049070:android:ca50cacf427ed36014f0ff",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy2-gHKXOfUd6nvhjkkiIipJ3lkbbiutA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566105049070:android:febdc79d72c0865c14f0ff",
+        "android_client_info": {
+          "package_name": "com.example.sevanaalayam_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy2-gHKXOfUd6nvhjkkiIipJ3lkbbiutA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
